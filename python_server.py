@@ -48,3 +48,5 @@ if __name__ == '__main__':
         run(port=int(argv[1]))
     else:
         run()
+
+dummy_token = "ghp_W9ow1IpOjWUbG1krNikDUkIcDhRhFC0EbgAx"
